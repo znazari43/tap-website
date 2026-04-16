@@ -31,10 +31,10 @@ Use one of the build methods above for doing any of the below options.
 
 Create a mdx file under `/src/content/posts/`, under the appropriate semester directory. Check metadata of other posts to set field appropriately. 
 
-### 👀 How to Create a Project
-
-See [instructions](docs/projects/README.md).
-
 ### 👀 How to Create a Student Profile
 
 See [instructions](docs/student-profiles/README.md).
+
+### 👀 How to Create a Project
+
+See [instructions](docs/projects/README.md).

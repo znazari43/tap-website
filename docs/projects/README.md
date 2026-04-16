@@ -1,7 +1,7 @@
 
 # Adding a TAP Project
 
-First, make sure you selected an appropriate method to build and run the project either by [cloning](../../README.md) or using [Github codespaces](../github-codespace/README.md).
+**First**, make sure you selected an appropriate method to build and run the project either by [cloning](../../README.md) or using [Github codespaces](../github-codespace/README.md).
 
 ## Overall process
 
